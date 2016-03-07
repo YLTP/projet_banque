@@ -9,3 +9,7 @@ Mais aussi :
 
   * avoir des bases solides en menant un mini-projet du début à la fin
   * un code clair et bien documenté (JavaDoc)
+
+
+Si vous voulez un exemple d'exécution de mon projet, j'ai mis à disposition un fichier jar.
+Téléchargez le et exécutez le dans l'invite de commandes avec la commande : java -jar projetBanque.jar
