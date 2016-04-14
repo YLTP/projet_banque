@@ -1,5 +1,5 @@
 # projet_banque
-Réalisé au cours de mon deuxième semestre de DUT Informatique, ce projet consistait à coder avec le langage Java les principales fonctionnalités liées à des opérations bancaires.
+Réalisé au cours de mon deuxième semestre de DUT Informatique, ce projet consistait à coder avec le langage Java les principales fonctionnalités liées à des opérations bancaires. Il fallait simuler la plupart des opérations possibles d'une banque en prenant en compte les différents types de comptes bancaires, les plafonds de certains livrets, les différents types de clients,...
 Il avait également pour but de nous faire intégrer les grandes notions de ce langage comme : 
   * l'héritage
   * les exceptions
